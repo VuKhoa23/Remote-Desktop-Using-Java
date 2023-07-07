@@ -1,6 +1,6 @@
 # Remote Desktop Application using Java socket
 ## HCMUS Computer Network Project - 21CLC01 - Lecturer: Mr. Do Hoang Cuong
-### See my demo here: [https://www.youtube.com/watch?v=2kGFhEFEmqA&t=181s](https://www.youtube.com/watch?v=GqjklNI_6X4)
+### See my demo here (Vietnamese): [https://www.youtube.com/watch?v=2kGFhEFEmqA&t=181s](https://www.youtube.com/watch?v=GqjklNI_6X4)
 I got this project on my second year at University and I have no idea how to work with Java. But I still managed to handle it and my project got the highest score :D.
 So basiclly I was asked to build a java application using server-client model. In which the client can connect to server and do some stuff like:
 - Take screenshot on server and send it back to client
